@@ -1,0 +1,15 @@
+{
+    "name": "ramez/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Ramez\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ramez Medhat",
+            "email": "iramezdev@gmail.com"
+        }
+    ],
+    "require": {}
+}
