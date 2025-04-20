@@ -2,7 +2,7 @@
 
 namespace Ramez\PhpMvcCore;
 
-use App\Models\UserModel;
+use Ramez\PhpMvcCore\Models\UserModel;
 
 class Application {
     public static Application $app; // to access this instance globally
