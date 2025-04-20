@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Core;
+namespace Ramez\PhpMvcCore;
 
-use App\Core\Exception\NotFoundException;
+use Ramez\PhpMvcCore\Exception\NotFoundException;
 
 class Router {
     protected array $routes = [];

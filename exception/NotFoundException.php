@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Core\Exception;
+namespace Ramez\PhpMvcCore\Exception;
 
 class NotFoundException extends \Exception {
     protected $message = "Ops! You're lost";

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Core;
+namespace Ramez\PhpMvcCore;
 
 abstract class Model {
     public const RULE_REQUIRED = 'required';

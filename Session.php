@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Core;
+namespace Ramez\PhpMvcCore;
 
 class Session {
     protected const FLASH_KEY = "flash_messages";

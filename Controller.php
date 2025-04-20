@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Core;
+namespace Ramez\PhpMvcCore;
 
-use App\Core\Middlewares\BaseMiddleware;
+use Ramez\PhpMvcCore\Middlewares\BaseMiddleware;
 
 class Controller {
     public string $layout = 'main';

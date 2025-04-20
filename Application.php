@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Core;
+namespace Ramez\PhpMvcCore;
 
 use App\Models\UserModel;
 

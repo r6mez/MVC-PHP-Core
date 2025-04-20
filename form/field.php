@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Core\Form;
+namespace Ramez\PhpMvcCore\Form;
 
-use App\Core\Model;
+use Ramez\PhpMvcCore\Model;
 
 class Field {
     public const TYPE_TEXT = 'text';

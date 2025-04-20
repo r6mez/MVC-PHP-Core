@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Core\Middlewares;
+namespace Ramez\PhpMvcCore\Middlewares;
 
 abstract class BaseMiddleware {
     abstract public function execute();

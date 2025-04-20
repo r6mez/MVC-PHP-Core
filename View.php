@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Core;
+namespace Ramez\PhpMvcCore;
 
 class View {
     public string $title = "";

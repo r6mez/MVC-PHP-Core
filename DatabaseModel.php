@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Core;
+namespace Ramez\PhpMvcCore;
 
 abstract class DatabaseModel extends Model {
     abstract public static function tableName(): string;
